@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Producto1",
+            "price": 20000,
+            "quantity": 20,
+            "description": "This is the product 1",
+            "img": "..."
+        },
+        {
+            "name": "Producto2",
+            "price": 25000,
+            "quantity": 10,
+            "description": "This is the product 2",
+            "img": "..."
+        },
+        {
+            "name": "Producto3",
+            "price": 16700,
+            "quantity": 23,
+            "description": "This is the product 3",
+            "img": "..."
+        },
+        {
+            "name": "Producto4",
+            "price": 15800,
+            "quantity": 18,
+            "description": "This is the product 4",
+            "img": "..."
+        }
+    ]
+}
